@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Omokhudu Goodluck lucky.
+- 👋# Hi, I’m Omokhudu Goodluck lucky.
 - 👀 I’m interested in Data.
 - 🌱 I’m currently learning Data analytics at Dahel.
 - 💞️ I’m looking to collaborate with companies,organization to solve statistical problem.
